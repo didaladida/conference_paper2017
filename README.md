@@ -1,7 +1,7 @@
 # conference_paper2017
 
 ## ijcai
-End-to-End Adversarial Memory Network for Cross-domain Sentiment Classification
+### End-to-End Adversarial Memory Network for Cross-domain Sentiment Classification
 
 - Task: Cross-domain Sentiment Classification
 - motivation：pivots(They are the important sentiment words for sentiment classification,These words are shared in both domains.)
